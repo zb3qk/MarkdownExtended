@@ -1,0 +1,8 @@
+
+func2 (name age){
+    <p>my name is NOT {name}, and I am NOT {age} years old. Just kidding, I am actually {age} years old.</p>
+}
+
+function_name (param param1 element){
+    <p>{param}</p>
+}
